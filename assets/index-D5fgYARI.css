@@ -1,0 +1,1 @@
+.todo-item{display:flex;gap:10px}.todo-item .todo-label{font-size:16px;color:#333;transition:color .3 ease}.todo-item .todo-label.completed{color:#888;text-decoration:line-through}
